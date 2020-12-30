@@ -17,6 +17,7 @@ body{
     background-color: #30475E;
     display: flex;
     align-items: center;
+    color: white;
 }
 header.container {
     padding-top: 560px;
