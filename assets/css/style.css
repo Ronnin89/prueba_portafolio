@@ -53,3 +53,11 @@ div.container:nth-child(3) {
     width: 150px;
     background-color: black;
 }
+
+#exp i{
+    color: #30475E;
+}
+
+.bg-work{
+    background-color: #30475E;
+}
