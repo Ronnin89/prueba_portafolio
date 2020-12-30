@@ -6,4 +6,50 @@ body{
     text-decoration: none;
     font-size: 50px;
     color: white;
+    text-decoration: none;
+}
+.navbar{
+    background-color: #30475E;
+}
+
+.foot{
+    height: 221px;
+    background-color: #30475E;
+    display: flex;
+    align-items: center;
+}
+header.container {
+    padding-top: 560px;
+    text-shadow:
+        0 0 1px #000,
+        -1px -1px 0 #000,  
+        1px -1px 0 #000,
+        -1px 1px 0 #000,
+        1px 1px 0 #000;
+    }
+
+.bg-foto{
+    height: 737px;
+    background-image: url(../img/background.jpeg);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-top: 100px;
+    background-color: black;
+}
+
+.linea-top{
+    height: 3px;
+    width: 400px;
+    background-color: white;
+}
+
+div.container:nth-child(3) {
+    padding-top: 100px;
+    }
+
+.linea-about{
+    height: 3px;
+    width: 150px;
+    background-color: black;
 }
