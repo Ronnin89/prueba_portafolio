@@ -62,3 +62,13 @@ div.container:nth-child(3) {
 .bg-work{
     background-color: #30475E;
 }
+
+.foot a:hover{
+    color: white;
+}
+.foot a:active{
+    color: white;
+}
+.foot a:visited{
+    color: white;
+}

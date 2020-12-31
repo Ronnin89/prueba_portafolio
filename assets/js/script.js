@@ -24,4 +24,4 @@ $(function () {
         q = gt.call(d, "script")[0];
         q.parentNode.insertBefore(js, q)
     }
-})()
+})
